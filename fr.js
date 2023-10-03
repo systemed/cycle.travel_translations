@@ -13,7 +13,7 @@ var translations = {
 	"Suggest a ride": "Suggérer",
 	"Click map to add more points": "Cliquez sur la carte pour ajouter",
 	"Add at...": "Ajouter à...",
-	"Add via point": "Ajouter point intermédiare",
+	"Add via point": "Ajouter point intermédiaire",
 	"Type a place name:": "Entrez un nom de lieu:",
 	"Show turn-by-turn instructions": "Afficher les instructions détaillées",
 	
